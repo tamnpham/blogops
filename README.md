@@ -1,3 +1,4 @@
 # blogops
 
-This is the first updates!
+## Config the site
+- Config `_config.yaml` file
